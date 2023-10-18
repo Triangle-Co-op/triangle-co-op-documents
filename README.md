@@ -1,17 +1,31 @@
 <img src="assets/triangle-co-op-logo.png" alt="Triangle logo" width=200>
 
-# Triangle foundational documents
+# Triangle foundational, operations & policy documents
 
-These are the foundational documents of Triangle, a design & development co-op agency, with members
-based in Germany, Indonesia & Japan.
+Triangle is a design & development co-op agency, with members based in Germany, Indonesia & Japan.
 
-We are committed to operating in an open & fair manner, and as part of forming our co-op, we have
-created documents that outline and clarify our practices & policies. As with all projects, we are
-adjusting and improving as we go.
+This is a collection of foundational, operations & policy documents of the co-op.
+
+We are committed to operating in an open & fair manner, and thus we make these documents open so
+others can understand how we work. As with all projects, we are adjusting and improving as we go.
 
 We want to encourage others to create democratic businesses, the process of which can be unclear,
 and therefore we want to offer these documents up for use to anyone who wants to form a co-op. In
 fact, we have greatly relied on the work of others to create these documents.
+
+## Foundational documents
+
+These include:
+
+-   bylaws
+-   membership agreement
+
+## Operations, agreements & policies
+
+These are documents related to clients & third parties, such as contractors.
+
+-   Mutual Non-Disclosure Agreement
+-   Contractor agreement
 
 ## Origins of documents content
 
