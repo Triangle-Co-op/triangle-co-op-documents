@@ -17,8 +17,8 @@ fact, we have greatly relied on the work of others to create these documents.
 
 These include:
 
--   bylaws
--   membership agreement
+-   The co-op bylaws
+-   Membership agreement
 
 ## Operations, agreements & policies
 
